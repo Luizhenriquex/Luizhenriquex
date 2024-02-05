@@ -1,3 +1,4 @@
+<img width=100% align="center"  src="https://github.com/Luizhenriquex/Luizhenriquex/assets/116771852/eda3f30f-b20f-4fd6-a328-4921fb2f9c6f"/>
 
 <p align="center">👨‍💻 Desenvolvedor Web. <br><br> Desenvolvimento frontend, com a criação de interfaces intuitivas. Eu sou <strong>fascinado em novas descobertas e</strong> na resolução de problemas. Atualmente, opero como <strong>desenvolvedor frontend</strong> focado no desenvolvimento web.</p>&nbsp;
 
